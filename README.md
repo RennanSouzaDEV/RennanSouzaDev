@@ -106,7 +106,7 @@ Me encontre em: https://rennancode.netlify.app/
       alt="GitHub Stats" 
       height="200"
       width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanSouzaDEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
